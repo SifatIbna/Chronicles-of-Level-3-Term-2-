@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/WorkSpace/Level_3_Term_2/Networking/Offline3/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+T:/WorkSpace/Level_3_Term_2/Networking/Offline3/cmake-build-debug/CMakeFiles/Offline3.dir
+T:/WorkSpace/Level_3_Term_2/Networking/Offline3/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/WorkSpace/Level_3_Term_2/Networking/Offline3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

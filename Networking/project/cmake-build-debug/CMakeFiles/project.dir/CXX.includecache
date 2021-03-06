@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/WorkSpace/Level_3_Term_2/Networking/project/main.cpp
+iostream
+-
+vector
+-
+limits
+-
+iomanip
+-
+cstdlib
+-
+ctime
+-
+
